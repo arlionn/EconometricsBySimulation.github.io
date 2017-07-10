@@ -4,7 +4,7 @@ title: About
 description: More information about me and this website.
 ---
 
-I am ...
+I am Francis Smart. I write blogs.
 
 ## Contact form
 
